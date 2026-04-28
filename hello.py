@@ -1,2 +1,3 @@
 name = input("enter yout name: ")
-print(f"hello {name}")
+age=int(input("enter age : "))
+print(f"hello {name} your age is {age}")
